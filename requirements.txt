@@ -1,3 +1,5 @@
 requests
 python-dotenv
 notion-client
+staypresent[prod]
+flask
